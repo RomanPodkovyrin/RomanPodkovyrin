@@ -1,10 +1,10 @@
 <p align="left">💫 About Me:<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact</p>
 
-###
+### My Tech Stack
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
