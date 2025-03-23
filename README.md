@@ -2,6 +2,7 @@
 
 <!---<p align="left">💫 About Me:<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact</p>--->
 
+<!---
 ### My Tech Stack
 
 <br clear="both">
@@ -25,7 +26,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
+--->
 ###
 <div align="center">
   <!---
